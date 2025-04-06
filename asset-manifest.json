@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ising-model/static/css/main.0b108429.css",
-    "main.js": "/ising-model/static/js/main.fb069c71.js",
-    "static/js/488.7ac1209e.chunk.js": "/ising-model/static/js/488.7ac1209e.chunk.js",
-    "index.html": "/ising-model/index.html",
-    "main.0b108429.css.map": "/ising-model/static/css/main.0b108429.css.map",
-    "main.fb069c71.js.map": "/ising-model/static/js/main.fb069c71.js.map",
-    "488.7ac1209e.chunk.js.map": "/ising-model/static/js/488.7ac1209e.chunk.js.map"
+    "main.css": "/Graphs-Ising/static/css/main.0b108429.css",
+    "main.js": "/Graphs-Ising/static/js/main.795460bc.js",
+    "static/js/488.7ac1209e.chunk.js": "/Graphs-Ising/static/js/488.7ac1209e.chunk.js",
+    "index.html": "/Graphs-Ising/index.html",
+    "main.0b108429.css.map": "/Graphs-Ising/static/css/main.0b108429.css.map",
+    "main.795460bc.js.map": "/Graphs-Ising/static/js/main.795460bc.js.map",
+    "488.7ac1209e.chunk.js.map": "/Graphs-Ising/static/js/488.7ac1209e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b108429.css",
-    "static/js/main.fb069c71.js"
+    "static/js/main.795460bc.js"
   ]
 }
