@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Graphs-Ising/static/css/main.c41adc1b.css",
-    "main.js": "/Graphs-Ising/static/js/main.1cf318ec.js",
+    "main.css": "/Graphs-Ising/static/css/main.06d59637.css",
+    "main.js": "/Graphs-Ising/static/js/main.26584188.js",
     "static/js/488.7ac1209e.chunk.js": "/Graphs-Ising/static/js/488.7ac1209e.chunk.js",
     "index.html": "/Graphs-Ising/index.html",
-    "main.c41adc1b.css.map": "/Graphs-Ising/static/css/main.c41adc1b.css.map",
-    "main.1cf318ec.js.map": "/Graphs-Ising/static/js/main.1cf318ec.js.map",
+    "main.06d59637.css.map": "/Graphs-Ising/static/css/main.06d59637.css.map",
+    "main.26584188.js.map": "/Graphs-Ising/static/js/main.26584188.js.map",
     "488.7ac1209e.chunk.js.map": "/Graphs-Ising/static/js/488.7ac1209e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c41adc1b.css",
-    "static/js/main.1cf318ec.js"
+    "static/css/main.06d59637.css",
+    "static/js/main.26584188.js"
   ]
 }
